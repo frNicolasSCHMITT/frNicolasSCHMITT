@@ -53,13 +53,13 @@
     alt="WampServer"
   />
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=frNicolasSCHMITT&show_icons=true&theme=blue-green"
   />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=frNicolasSCHMITT&layout=compact&theme=blue-green"
@@ -67,19 +67,22 @@
 </a>
 <br />
 <h2 style="text-align: center">Recommended projects to look at:</h2>
-<a href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
+<a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Portfolio_v2&theme=blue-green"
   />
 </a>
-<a href="https://github.com/frNicolasSCHMITT/Projet_Groupe_Bretagne">
+<a
+  align="center"
+  href="https://github.com/frNicolasSCHMITT/Projet_Groupe_Bretagne"
+>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Projet_Groupe_Bretagne&theme=blue-green"
   />
 </a>
-<a href="https://github.com/frNicolasSCHMITT/Space-Invader-JS">
+<a align="center" href="https://github.com/frNicolasSCHMITT/Space-Invader-JS">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
