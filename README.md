@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello there :wave:, I'm <b style="color: limegreen">Nicolas</b> from :fr: and I'm learning <i>Web development</i>;
+  Hello there :wave:, I'm <b style="color: limegreen">Nicolas</b> from :fr: and I'm learning </br><i>Web development</i>;
 </h1>
 <br />
 <p align="center">
