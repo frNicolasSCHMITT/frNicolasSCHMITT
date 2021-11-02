@@ -3,19 +3,20 @@
   &#127467;&#127479; and I'm learning <i>Web development</i>;
 </h1>
 <br />
-<a href="www.linkedin.com/in/nicolas-schmitt-854932210">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"
-    alt="linkedIn"
-  />
-</a>
-<a href="">
-  <img
-    src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Windows%20Terminal"
-    alt="Portfolio"
-  />
-</a>
-
+<p align="center">
+  <a href="www.linkedin.com/in/nicolas-schmitt-854932210">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"
+      alt="linkedIn"
+    />
+  </a>
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Windows%20Terminal"
+      alt="Portfolio"
+    />
+  </a>
+</p>
 <p style="font-size: 1.5em">
   Junior Web & PWA developer learning HTML/CSS, JavaScript, PHP/MySQL. I worked
   with some frameworks & libraries like
