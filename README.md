@@ -1,6 +1,5 @@
 <h1 style="text-align: center">
-  Hello there, I'm <b style="color: limegreen">Nicolas</b> from
-  &#127467;&#127479; and I'm learning <i>Web development</i>;
+  Hello there :wave:, I'm <b style="color: limegreen">Nicolas</b> from :fr: and I'm learning <i>Web development</i>;
 </h1>
 <br />
 <p align="center">
@@ -94,5 +93,6 @@
 <br />
 <h2 style="text-align: center">About me</h2>
 <p style="text-align: center">
-  Location: Europe/France/Greater Lyon Area (UTC+1)
+  :round_pushpin: Location: Europe/France/Greater Lyon Area (UTC+1) </br>
+  :mega: Languages: French: native ; English: Advanced; Japanese: Good, Oral-Only;
 </p>
