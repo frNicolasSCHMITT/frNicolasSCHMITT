@@ -1,4 +1,4 @@
-<h1 style="text-align: center">
+<h1 align="center">
   Hello there :wave:, I'm <b style="color: limegreen">Nicolas</b> from :fr: and I'm learning <i>Web development</i>;
 </h1>
 <br />
@@ -66,7 +66,7 @@
   />
 </p>
 <br />
-<h2 style="text-align: center">Recommended projects to look at:</h2>
+<h2 align="center">Recommended projects to look at:</h2>
 <p align="center">
   <a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
     <img
@@ -91,8 +91,8 @@
   </a>
 </p>
 <br />
-<h2 style="text-align: center">About me</h2>
-<p style="text-align: center">
+<h2 align="center">About me</h2>
+<p align="center">
   :round_pushpin: Location: Europe/France/Greater Lyon Area (UTC+1) </br>
   :mega: Languages: French: native ; English: Advanced; Japanese: Good, Oral-Only;
 </p>
