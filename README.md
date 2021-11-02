@@ -67,28 +67,29 @@
 </p>
 <br />
 <h2 style="text-align: center">Recommended projects to look at:</h2>
-<a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
-  <img
+<p align="center">
+  <a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Portfolio_v2&theme=blue-green"
+    />
+  </a>
+  <a
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Portfolio_v2&theme=blue-green"
-  />
-</a>
-<a
-  align="center"
-  href="https://github.com/frNicolasSCHMITT/Projet_Groupe_Bretagne"
->
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Projet_Groupe_Bretagne&theme=blue-green"
-  />
-</a>
-<a align="center" href="https://github.com/frNicolasSCHMITT/Space-Invader-JS">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
-  />
-</a>
-
+    href="https://github.com/frNicolasSCHMITT/Projet_Groupe_Bretagne"
+  >
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Projet_Groupe_Bretagne&theme=blue-green"
+    />
+  </a>
+  <a align="center" href="https://github.com/frNicolasSCHMITT/Space-Invader-JS">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
+    />
+  </a>
+</p>
 <br />
 <h2 style="text-align: center">About me</h2>
 <p style="text-align: center">
