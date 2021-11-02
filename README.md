@@ -53,18 +53,18 @@
     alt="WampServer"
   />
 </p>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=frNicolasSCHMITT&show_icons=true&theme=blue-green"
   />
-</a>
-<a align="center" href="https://github.com/anuraghazra/convoychat">
+</p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=frNicolasSCHMITT&layout=compact&theme=blue-green"
   />
-</a>
+</p>
 <br />
 <h2 style="text-align: center">Recommended projects to look at:</h2>
 <a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
