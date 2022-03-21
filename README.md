@@ -3,13 +3,13 @@
 </h1>
 <br />
 <p align="center">
-  <a href="www.linkedin.com/in/nicolas-schmitt-854932210">
+  <a target="blank" href="www.linkedin.com/in/nicolas-schmitt-854932210">
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"
       alt="linkedIn"
     />
   </a>
-  <a href="">
+  <a target="blank" href="">
     <img
       src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Windows%20Terminal"
       alt="Portfolio"
@@ -94,5 +94,5 @@
 <h2 align="center">About me</h2>
 <p align="center">
   :round_pushpin: Location: Europe/France/Greater Lyon Area (UTC+1) </br>
-  :mega: Languages: French: native ; English: Advanced; Japanese: Good, Oral-Only;
+  :mega: Languages: French: native ; English: Advanced; Japanese: Beginner, Oral-Only;
 </p>
