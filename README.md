@@ -3,18 +3,14 @@
 </h1>
 <br />
 <p align="center">
-  <a target="blank" href="www.linkedin.com/in/nicolas-schmitt-854932210">
-    <img
+    <img (www.linkedin.com/in/nicolas-schmitt-854932210)
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"
       alt="linkedIn"
     />
-  </a>
-  <a target="blank" href="">
     <img
       src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Windows%20Terminal"
       alt="Portfolio"
     />
-  </a>
 </p>
 <p style="font-size: 1.5em">
   Junior Web & PWA developer learning HTML/CSS, JavaScript, PHP/MySQL. I worked
