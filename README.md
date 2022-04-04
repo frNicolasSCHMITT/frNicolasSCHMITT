@@ -82,7 +82,7 @@
   <a align="center" href="https://github.com/frNicolasSCHMITT/SymForum">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=SymForum-JS&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=SymForum&theme=blue-green"
     />
   </a>
   <a align="center" href="https://github.com/frNicolasSCHMITT/Project_FromSomewhere">
