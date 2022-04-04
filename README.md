@@ -64,7 +64,7 @@
 <br />
 <h2 align="center">Recommended projects to look at:</h2>
 <p align="center">
-  <a align="center" href="https://github.com/frNicolasSCHMITT/Portfolio_v2">
+  <a align="center" href="https://github.com/frNicolasSCHMITT/VueJS_Portfolio_v3">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Portfolio_v2&theme=blue-green"
@@ -72,14 +72,20 @@
   </a>
   <a
     align="center"
-    href="https://github.com/frNicolasSCHMITT/Projet_Groupe_Bretagne"
+    href="https://github.com/frNicolasSCHMITT/project_e_commerce"
   >
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Projet_Groupe_Bretagne&theme=blue-green"
     />
   </a>
-  <a align="center" href="https://github.com/frNicolasSCHMITT/Space-Invader-JS">
+  <a align="center" href="https://github.com/frNicolasSCHMITT/SymForum">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
+    />
+  </a>
+  <a align="center" href="https://github.com/frNicolasSCHMITT/Project_FromSomewhere">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
