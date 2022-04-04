@@ -96,5 +96,5 @@
 <h2 align="center">About me</h2>
 <p align="center">
   :round_pushpin: Location: Europe/France/Greater Lyon Area (UTC+1) </br>
-  :mega: Languages: French: native ; English: Advanced; Japanese: Beginner, Oral-Only;
+  :mega: Languages: French: native ; English: Advanced;
 </p>
