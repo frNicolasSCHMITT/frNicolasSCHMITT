@@ -67,7 +67,7 @@
   <a align="center" href="https://github.com/frNicolasSCHMITT/VueJS_Portfolio_v3">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Portfolio_v2&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=VueJS_Portfolio_v3&theme=blue-green"
     />
   </a>
   <a
@@ -76,19 +76,19 @@
   >
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Projet_Groupe_Bretagne&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=project_e_commerce&theme=blue-green"
     />
   </a>
   <a align="center" href="https://github.com/frNicolasSCHMITT/SymForum">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=SymForum-JS&theme=blue-green"
     />
   </a>
   <a align="center" href="https://github.com/frNicolasSCHMITT/Project_FromSomewhere">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Space-Invader-JS&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=frNicolasSCHMITT&repo=Project_FromSomewhere&theme=blue-green"
     />
   </a>
 </p>
