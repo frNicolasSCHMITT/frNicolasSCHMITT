@@ -8,7 +8,7 @@
       alt="linkedIn"
     />
     <img
-      src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Windows%20Terminal"
+      src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Internet Explorer"
       alt="Portfolio"
     />
 </p>
@@ -20,12 +20,12 @@
     alt="Bootstrap"
   />,
   <img
-    src="https://img.shields.io/badge/jQuery-blue?style=plastic&logo=jquery"
-    alt="jQuery"
+    src="https://img.shields.io/badge/Symfony-6B3388?style=plastic&logo=Symfony"
+    alt="Symfony"
   />,
   <img
-    src="https://img.shields.io/badge/GSAP-brightgreen?style=plastic&logo=greensock&logoColor=white"
-    alt="GSAP"
+    src="https://img.shields.io/badge/VueJS-brightgreen?style=plastic&logo=Vue.js&logoColor=white"
+    alt="Vue JS"
   />
   and also frequently use programs & tools such as
   <img
@@ -39,14 +39,6 @@
   <img
     src="https://img.shields.io/badge/Adobe Photoshop-darkblue?style=plastic&logo=Adobe Photoshop&logoColor=white"
     alt="Adobe Photoshop"
-  />,
-  <img
-    src="https://img.shields.io/badge/phpMyAdmin-yellow?style=plastic&logo=phpMyAdmin&logoColor=white"
-    alt="phpMyAdmin"
-  />,
-  <img
-    src="https://img.shields.io/badge/WampServer-deeppink?style=plastic&logo=Apache&logoColor=white"
-    alt="WampServer"
   />
 </p>
 <p align="center">
